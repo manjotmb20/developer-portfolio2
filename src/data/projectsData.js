@@ -15,18 +15,18 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
+        projectName: 'URL Shortener',
+        projectDesc: 'Developed a URL shortener web application using Python and Flask framework, leveraging REST APIs to provide users with the ability to generate shorter and more manageable URLs for sharing.',
+        tags: ['Python', 'Flask', 'SQLAlchemy'],
         code: 'https://github.com/said7388/jewelry-niche',
         demo: 'https://pandora-web.netlify.app/',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
+        projectName: 'Adventure Maze Game',
+        projectDesc: 'Developed a game using MVC architecture where a player navigates through a dungeon consisting of caves and tunnels fighting monsters and thieves and collects treasures to reach the destination',
+        tags: ['Object Oriented Programming', 'Java', 'Material Ui'],
         code: 'https://github.com/said7388/Travel-Agency-client',
         demo: 'https://travel-agency-fc58b.web.app/',
         image: eight
@@ -34,17 +34,3 @@ export const projectsData = [
 ]
 
 
-// Do not remove any fields.
-// Leave it blank instead as shown below
-
-/* 
-{
-    id: 1,
-    projectName: 'Car Pooling System',
-    projectDesc: '',
-    tags: ['Flutter', 'React'],
-    code: '',
-    demo: '',
-    image: ''
-}, 
-*/

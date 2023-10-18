@@ -1,5 +1,5 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name is ABU SAID. I'm a web designer and developer based in Dhaka, Bangladesh.",
-    description2: "I am a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. Love almost all the stacks of Software Engineering. My current stack includes Nodejs, Nestjs, React, NextJs, Redux, Bootstrap, Ant Design, Material UI, MongoDB, Mysql, PostgreSQL, Firebase, Cloudinary, etc.",
+    description1: "Hi👋, I'm Manjot! I am a Software Engineer who enjoys solving complex problems. I graduated from Northeastern University in Boston with a Masters degree, majoring in Computer Science.",
+    description2: "I have nearly three years of professional experience as a software engineer, where I designed & developed high quality mobile applications for Android. As an Android developer, I paid great attention to detail and design of my work. Writing clean code that is easy to maintain and designing app architecture that scales well as additional, more complex features are added to a project were some of my major endeavors. In my recent years of software engineering, I spent my time exploring other interesting computer science fields - primarily distributed systems where I focussed on creating backend services that could operate on a large scale and handle immense load and user-traffic.",
 }

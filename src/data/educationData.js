@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Noakhali Government College',
-        course: 'Bachelor Degree',
-        startYear: '2020',
-        endYear: 'Present'
+        institution: 'Northeastern University',
+        course: 'Master of Science, Computer Science',
+        startYear: '2021',
+        endYear: '2023'
     },
     {
         id: 2,
-        institution: 'Noakhali Islamia Kamil Madrasah',
-        course: 'Higher Secondary',
-        startYear: '2018',
-        endYear: '2020'
-    },
-    {
-        id: 3,
-        institution: 'Baitus Saif Islamia Madrasah',
-        course: 'Secondary School',
-        startYear: '2008',
+        institution: 'Jaypee Institute of Information Technology',
+        course: 'Bachelor of Technology, Computer Science & Engineering',
+        startYear: '2014',
         endYear: '2018'
-    },
+    }
 ]

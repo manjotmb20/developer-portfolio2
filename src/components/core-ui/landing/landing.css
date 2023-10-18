@@ -12,6 +12,13 @@
   height: 100%;
   position: relative;
 }
+.custom-title {
+    font-family: 'Arial', sans-serif; /* Change the font family */
+    font-size: 36px; /* Change the font size */
+    color: #333; /* Change the font color */
+    /* Add any other styles as needed */
+}
+
 
 .landing--img {
   --img-size: 350px;
